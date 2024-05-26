@@ -12,8 +12,9 @@ Esta aplicación te permite crear un formulario sobre una noticia. Esa informaci
 
 (Incluye aquí algunas capturas de pantalla de tu aplicación)
 
-![Captura de Pantalla 1](ruta/a/tu/captura1.png)
-![Captura de Pantalla 2](ruta/a/tu/captura2.png)
+![Home](img/Home.png)
+![Form](img/Form.png)
+![List](img/ListPNG.png)
 
 ## Tecnologías
 
