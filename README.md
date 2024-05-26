@@ -53,7 +53,7 @@ Esta aplicación te permite crear un formulario sobre una noticia. Esa informaci
     yarn start
     ```
 
-Abre [http://localhost:3000](http://localhost:3000) para ver la aplicación en tu navegador.
+Abre [http://localhost:??](http://localhost:??) para ver la aplicación en tu navegador.
 
 ## Uso
 
