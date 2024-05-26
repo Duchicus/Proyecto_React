@@ -1,8 +1,28 @@
-# React + Vite
+Form con REACT
+  Esta aplicacion te permite crear un formulario sobre una noticia, esa informacion se almacenara en el localStorage y te permitira acceder a una lista de noticias     sacadas de una API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tabla de Contenidos
+  Capturas de Pantalla
+  Tecnologías
+  Instalación
 
-Currently, two official plugins are available:
+Capturas de Pantalla
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Tecnologías
+  React
+  Axios (para las solicitudes HTTP)
+  Bootstrap (o cualquier otra librería de CSS que utilices)
+
+Instalación
+  Prerrequisitos
+    Node.js
+    npm o yarn
+  Pasos de Instalación
+  Clona el repositorio
+    git clone https://github.com/tu-usuario/nombre-de-tu-repositorio.git
+    cd nombre-de-tu-repositorio
+  Instala las dependencias
+    npm install
+    # o si usas yarn
+    yarn install
